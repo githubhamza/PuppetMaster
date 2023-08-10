@@ -4,7 +4,7 @@ Deep Learning-Based Approach for Creation of High Resolution Synthetic Videos
 This model brings forward a new approach to the image animation model for the generation of a high-quality synthetic video sequence without any initial information or annotations. The proposed multimodal architecture makes use of two models for image animation and video enhancement. The model once trained on a set of videos belonging to the same category (e.g. human bodies, faces) can generate high- resolution video sequences of any object belonging to the same class. The model outperforms SOTA first-order motion models for unsupervised video retargeting.
 
 ## Demo
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1fC8gjagj1dyKT9vtICqv-06yWkP5I8P7?usp=sharing)
 ### Guidelines
 1. Select GPU runtime
 2. Execute the first cell
