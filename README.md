@@ -8,13 +8,12 @@ This model brings forward a new approach to the image animation model for the ge
 
 ### Guidelines
 1. Select GPU runtime
-2. Execute the first cell
-   1. Enter number corresponding to Python version 3.7
-   2. Press enter
-3. Execute remaining cells
+3. Execute all cells
 4. After executing the last cell
-   1. Enter number corresponding to Python version 3.7
-   2. Press enter
+   1. Execute The Cell
+   2. Open Link
+   3. Copy External URL without port number
+   4. Paste URL in textbox of URL opened
 
 
 ## Architecture
@@ -58,5 +57,16 @@ The evaluation is done using the following three matrices:
 | **First Order Motion Model** | 71.15 | 143.48 | 29.69 |
 | **Proposed** | 69.17 | 138.00 | 29.82 |
 
+## Custom Setup
+1. Use Python Version 3.7
+2. Install libraries using `pip install requirements.txt`
+3. Download the config folder from [config](https://1drv.ms/f/s!Amu2_EOykJZIgQzDm2yZGSv8kinw?e=phTu0G)
+4. Place the config folder inside the `PuppetMaster` directory
+5. Clone the repository `!git clone https://github.com/xinntao/Real-ESRGAN.git`
+6. Navigate inside the cloned directory and run `!python setup.py develop`
 
+## Inspired By
+Special thanks to all contributors of the following repositories:
+1. [First-Order-Model](https://github.com/AliaksandrSiarohin/first-order-model)
+2. [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 
