@@ -18,32 +18,33 @@ This model brings forward a new approach to the image animation model for the ge
 
 ## Architecture
 ### PuppetMaster Architecture
-![model drawio](https://github.com/githubhamza/PuppetMaster/assets/98768916/ac2b4ae9-cac2-4ff8-9a04-b5ea3d696f81)
+![model drawio](https://github.com/githubhamza/PuppetMaster/assets/98768916/3856dff2-cb0b-4d49-af73-c6e113f97a13)
 
 ### Residual in Residual Dense Block (RRDB) Architecture
-![RRDB drawio](https://github.com/githubhamza/PuppetMaster/assets/98768916/6dea8e98-42d1-49ca-8aff-b43c70d1afd4)
+![RRDB drawio](https://github.com/githubhamza/PuppetMaster/assets/98768916/77ac4ee9-0c19-408b-a681-e04394fc7536)
 
 
 ## Sample
 ### Source Image
 
-![1(S)](https://github.com/githubhamza/PuppetMaster/assets/98768916/e478de54-b4bf-4ae0-814a-d6c9b20966d0)
+![1(S)](https://github.com/githubhamza/PuppetMaster/assets/98768916/862dbd11-74fd-4be1-8c1e-d4a451b53996)
 
 ### Driving Video
 
 
-https://github.com/githubhamza/PuppetMaster/assets/98768916/8614dba3-0566-422d-ad82-68900ded4c21
+https://github.com/githubhamza/PuppetMaster/assets/98768916/20ccd2ba-8371-4cd9-8e6c-84dd9a27c3d9
+
 
 ### First Order Motion Model Result
 
 
 
-https://github.com/githubhamza/PuppetMaster/assets/98768916/dbef62ae-025e-4140-aab2-ba4c47aeb737
+https://github.com/githubhamza/PuppetMaster/assets/98768916/08ee1e95-4cb5-4cb2-a92a-a0b9d7d37459
 
 ### Proposed Model Result
 
 
-https://github.com/githubhamza/PuppetMaster/assets/98768916/7455a567-b627-41f3-b772-366fcdeb63b8
+https://github.com/githubhamza/PuppetMaster/assets/98768916/47451bd9-6459-4417-a4e7-e99f903b8af4
 
 ## Evaluation
 The evaluation is done using the following three matrices:
@@ -69,4 +70,17 @@ The evaluation is done using the following three matrices:
 Special thanks to all contributors of the following repositories:
 1. [First-Order-Model](https://github.com/AliaksandrSiarohin/first-order-model)
 2. [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
